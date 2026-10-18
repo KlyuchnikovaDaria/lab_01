@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Glossary EN-RU: Нефтегазовая отрасль: добыча и переработка</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Lab 01, variant 25, generated automatically</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCSV02.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="tid-001">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>amplitude</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Difference between the maximum displacement of a wave and the point of no displacement or the null point.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>амплитуда</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-002">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>aquifer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Any water-bearing formation encountered while drilling.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>водоносный горизонт</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-003">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>appraisal</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The phase of petroleum operations that immediately follows successful exploratory drilling.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>оценка месторождения</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-004">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>air drilling</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Air drilling is a drilling technique whereby gases (typically compressed air or nitrogen) are used to cool the drill bit and lift cuttings out of the wellbore instead of the more conventional use of liquids.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пневматическое бурение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-005">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>asphaltenes</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Asphaltenes are organic materials that contain aromatic and naphthenic ring compounds containing nitrogen, sulfur, and oxygen molecules.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>асфальтены</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-006">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>asphalt</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A solid or nearly solid form of bitumen that can melt upon heating and contains impurities such as nitrogen, oxygen, and sulfur.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>асфальт</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-007">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bit</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The tool used to crush or cut rock.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>буровое долото</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-008">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>blowout</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An uncontrolled flow of reservoir fluids into the wellbore and sometimes catastrophically to the surface.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>выброс</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-009">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>blowout preventer (BOP)</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Equipment installed on the wellhead to prevent the escape of fluids under pressure from the wellbore during drilling, completion, or workover operations.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>противовыбросовый превентор (ПВО)</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-010">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>borehole</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The wellbore itself, including the open hole or uncased portion of the well.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ствол скважины</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-011">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>beam pump</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An artificial lift pumping system using a surface power source to drive a downhole pump assembly.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>глубинный насос штангового типа</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-012">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ball valve</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A valve that uses a spherical closure element (ball) that is rotated through 90° to open and close the valve.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>шаровой клапан</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-013">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>barrel (bbl)</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A measure of volume for petroleum products.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>баррель</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-014">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>burner</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A crucial piece of every oil or gas heating system, designed to heat air or water.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>горелка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-015">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>backpressure</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Pressure registered on equipment or devices when fluid flows through.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>противодавление</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-016">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>blinding</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A process that refers to the complete sealing off of any other refinery equipment by use of a metal plate that is appropriately designed so that it is crammed onto the end of a flanged vessel or pipe or even inserted between two flanges.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>установка заглушек</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-017">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>casing head</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The adapter between the first casing string and either the BOP stack (during drilling) or the wellhead (after completion).</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>обсадная головка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-018">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>christmas tree</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The set of valves, spools, and fittings connected to the top of a well to direct and control the flow of formation fluids from the well.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фонтанное устьевое оборудование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-019">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>compressibility</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The relative change in fluid volume related to a unit change in pressure.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сжимаемость</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-020">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cementing</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Permanently securing the casing to the wellbore or plugging and sealing the wellbore with cement.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>цементирование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-021">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>choke</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A device incorporating an orifice that is used to control fluid flow rate or downstream system pressure.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>дроссельный вентиль</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-022">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>condensate</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A natural gas liquid with a lower vapor pressure than natural gasoline and liquefied petroleum gas.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>конденсат</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-023">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>condensate gas</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Hydrocarbon liquid dissolved in saturated natural gas that comes out of the solution when the pressure drops below the dewpoint.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>газовый конденсат</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-024">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>corrosion inhibitor</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A chemical additive used in acid treatments to protect iron and steel components in the wellbore and treating equipment from the corrosive fluid.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ингибитор коррозии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-025">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>corrosion-resistant alloy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A specially formulated material used for completion components in wells that is likely to present corrosion problems.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>коррозионностойкий сплав</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-026">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>density</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Degree of consistency measured by the quantity of mass per unit volume.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>плотность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-027">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>dehydrate</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">To remove water from a substance.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>обезвоживать</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-028">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>demulsification</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A mixture of chemicals breaks the emulsion by destroying or weakening the stabilizing film around the dispersed drops.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>деэмульгация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-029">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>dense phase</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A state when fluid exists above both the cricondenbar pressure and the critical temperaturen.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>плотная фаза</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-030">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>derrick floor</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The relatively small work area in which the rig crew conducts operations, usually adding or removing drillpipe to or from the drillstring.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>рабочая площадка буровой установки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-031">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>desalter</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A device used in petroleum refineries to remove inorganic salts, water, and sediment from the incoming petroleum crude oil feedstock before it is refined.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>обессоливающая установка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-032">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>decompression</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A reduction in pressure; release from pressure or compression.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>декомпрессия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-033">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>exploration</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The act of searching for the discovery of information or resources. Oil and gas exploration encompasses the processes and methods of locating potential oil and gas drilling and extraction sites.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>геологоразведочные работы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-034">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hydraulic fracturing</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The practice of pumping special fluids down the wellbore under high pressure.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гидравлический разрыв пласта</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-035">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>marginal well</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A well that, for reasons of depletion or naturally low productivity, is nearing the limits of viable production and profitability.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>низкорентабельная скважина</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-036">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sedimentary basin</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A depression in the crust of the Earth caused by plate tectonic activity and subsidence, in which sediments accumulate.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>осадочный бассейн</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-037">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sedimentary rocks</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Rocks generated as a result of organic and inorganic matter settling on bottoms of water basins and surface of continents.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>осадочные породы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-038">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pressure</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Force distributed over a surface, usually measured in pounds force per square inch.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>давление</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-039">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>positive displacement motor</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A downhole motor used in the oil field to drive the drill bit or other downhole tools during directional drilling or performance drilling applications.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гидравлический забойный двигатель</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-040">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>recover</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">Getting back, regaining, or making up for.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>восполнять; возвращать</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-041">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>rotary drilling</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A method of making a hole that relies on a continuous circular motion of the bit to break rock at the bottom of the hole.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>роторное бурение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-042">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sweetening</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A process used to remove hydrogen sulfide [H2S] and carbon dioxide [CO2] from a gas stream.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>десульфурация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-043">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>tubing head</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A wellhead component that supports the tubing hanger and provides a means of attaching the Christmas tree to the wellhead.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>головка насосно-компрессорных труб</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-044">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>two-phase flow</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The simultaneous oil and free gas flow into a wellbore.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>двухфазный поток</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-045">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>two-phase separator</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A vessel that separates the well fluids into gas and total liquid.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>двухфазный сепаратор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-046">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>air-foam</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A light, frothy mass of fine bubbles formed in or on the surface of a liquid or from a liquid.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пенообразующий агент</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-047">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>clutch</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Permit gradual engaging and disengaging of the equipment driven by a prime mover.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>соединительная муфта; сцепление</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-048">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>coalescer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A device that induces coalescence in a medium.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>коагулятор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-049">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>coalescing filter</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A filter used in compressed air systems to remove oil droplets and fine particles down to 0.01 microns in size.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фильтр-коалессер; нефтяная ловушка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-050">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>coupling</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A device for connecting parts of machinery.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>муфта</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-051">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>covalent union</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A chemical bond characterized by one or more pairs of shared electrons.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ковалентная связь</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-052">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gas anchor</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A short section of tubing that extends down from an insert sucker-rod pump and separates gas from the oil before it enters the pump to prevent gas locking.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>газовый якорь</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-053">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gasometer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A large container in which natural gas or town gas is stored near atmospheric pressure at ambient temperatures.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>газометр</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-054">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>permafrost</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A permanently frozen layer on or under Earth's surface.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вечная мерзлота</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-055">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bubble flow</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A multiphase flow regime in pipes in which one fluid moves as small dispersed bubbles through a continuous fluid.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пузырьковый режим потока</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-056">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bubble point</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The temperature at a given pressure or a pressure at a given temperature at the instant the first bubble of gas is formed in a given liquid.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>точка образования пузырьков</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-057">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bundle</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Several pipes (production or injection, gas lift) that are jointly insulated to keep production lines together.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>трубный пучок</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-058">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bulk boat</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A ship designed for the bulk transport of oil or its products.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>нефтяной танкер</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-059">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bushwash</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Sludge at the bottom of an oil tank, not collapsing without heating; or emulsion of oil and water.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>нефтяной отстой</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-060">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>flow loop</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A laboratory instrument for investigating fluid flow characteristics in pipes and for studying the response of production logging instruments to this flow.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гидравлический испытательный стенд замкнутого типа</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-061">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>water hammer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The physical effect, often accompanied by loud banging, which is produced by pressure waves generated by a rapid change of velocity in a liquid system within the piping.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гидравлический удар</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-062">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cracking</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The process of splitting a large heavy hydrocarbon molecule into smaller, lighter components.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>крекинг</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-063">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>crane</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A type of machine, generally equipped with a hoist rope, wire ropes or chains, and sheaves, that can be used both to lift and lower materials and to move them horizontally.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кран; подъёмный кран</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-064">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>crankshaft</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A shaft driven by a crank mechanism consisting of a series of cranks and crankpins to which the connecting rods of an engine are attached.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>коленчатый вал</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-065">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>adsorbed gas</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The gas that accumulates on the surface of a solid material, such as a grain of a reservoir rock or, more particularly, the organic particles in a shale reservoir.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>адсорбированный газ</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-066">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>adsorption</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The property of some solids and liquids to attract a liquid or a gas to their surfaces.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>адсорбция</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-067">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>azimuth</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The angle between the vertical projection of a line of interest onto a horizontal surface and true north or magnetic north measured in a horizontal plane, typically measured clockwise from north.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>азимут</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-068">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>nitrogen cushion</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A means of allowing a precise pressure differential before opening flow from the reservoir.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>азотная подушка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-069">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>centrifugal pump</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A type of pump commonly used in the handling and mixing oilfield fluids.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>центробежный насос</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-070">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>three-phase separator</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A vessel with cylindrical axes that separates oil, gas, and water from the production stream.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>трёхфазный сепаратор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-071">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cold production</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Nonthermal primary heavy oil production methods that include horizontal wells, multilateral, CHOPS, and water or gas injection.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>холодная добыча</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-072">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>buster</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A simple separator vessel that removes free or entrained gas from fluids circulated in the wellbore.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>газосепаратор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-073">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>slam retarder</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A device to prevent the clapper of a check valve from slamming as it closes upon flow reversal.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гаситель гидравлического удара</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-074">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>generator</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A device that creates electrical energy to power appliances running on electricity by burning the fuel it uses for producing electricity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>генератор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-075">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sealing</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The surface-to-surface joining technique of materials using a substance of a different type that adheres to the surfaces of the two adherents to be joined, transferring the forces from one adherent to the other.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>герметизация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-076">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>accumulator</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A vessel used in a hydraulic system to store energy or, in some applications, dampen pressure fluctuations.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гидравлический аккумулятор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-077">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>downhole gauge</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A device used in assessing the downhole pressure under various flowing conditions, the basis of pressure transient analysis.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>глубинный манометр</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-078">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>archie rock</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A rock that is petrophysical simple.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>петрофизически простая горная порода</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-079">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>drilling rig</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A rig or drilling rig is a machine used to drill a wellbore.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>буровая установка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-080">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>drilling contractor</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A drilling contractor is a company that owns and operates a drilling rig.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>буровой подрядчик</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-081">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>acid gas</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A gas that can form acidic solutions when mixed with water. Hydrogen sulfide (H2S) and carbon dioxide (CO2) are the most common acid gases.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кислый газ</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-082">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>acetic acid</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An organic acid used in oil and gas well-stimulation treatments as an inhibit or retarder.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>уксусная кислота</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-083">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>acid inhibitor</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A chemical additive used to protect wellbore components and treatment equipment from the corrosive action of an acid.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кислотный ингибитор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-084">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gas field</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A district where natural gas is produced in commercial quantities.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>газовое месторождение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-085">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>spacer fluid</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Any liquid used to separate one special-purpose liquid from another.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>буферная жидкость</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-086">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>crown valve</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The topmost valve on a Christmas tree that provides vertical access to the wellbore.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>буферная задвижка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-087">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gross production</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The total production of oil, gas, or water from a well or field over a specific period of time.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>валовое производство</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-088">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>fan</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A machine used to move fluid or air.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вентилятор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-089">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>duct</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A tube or passageway in a machine for air, liquid, cables, etc.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>воздуховод</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-090">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>wax</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A mixture of solid hydrocarbons.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>парафин; воск</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-091">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>well flow rate</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The well production or injection rate.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>дебит скважины</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-092">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>degasser</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A device that removes air or gases from drilling liquids.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>дегазатор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-093">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gas blanket</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A gas phase maintained above a liquid in a vessel to protect the liquid against air contamination, to reduce the hazard of detonation, or to pressurize the liquid.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>газовая подушка; защитный газовый слой</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-094">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>butane</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">One of the lightest liquid streams typically produced in a refinery.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>бутан</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-095">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>tankage</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The capacity of all the tanks in a field.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вместимость</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-096">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pigging</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The act of forcing a device called a pig through a pipeline to displace or separate fluids and cleaning or inspecting the line.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>внутренняя очистка трубопровода скребками</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-097">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>air-powered</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <descrip type="definition">Moved or worked by air pressure.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>с пневматическим приводом</term>
+              <termNote type="partOfSpeech">adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-098">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>roto-rabbit</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A small plug that is passed through a pressurized pressure line to clear the line or check for obstructions.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вращающийся скребок</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-099">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cap the well</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">Remain control of a blowout well by installing and closing a valve on the wellhead.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>закрывать; запечатывать; заглушать; ликвидировать скважину</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-100">
+        <descrip type="subjectField">Нефтегазовая отрасль: добыча и переработка</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>all-welded</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <descrip type="definition">Completely welded and cannot be disassembled and repaired in the field.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>цельносварный</term>
+              <termNote type="partOfSpeech">adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="lab01-generator" creationtoolversion="1.0" segtype="sentence" o-tmf="TMX" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261018T164858Z"/>
+  <body>
+    <tu tuid="1" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Sedimentary rocks generated as a result of organic and inorganic matter settling on bottoms of water basins and surface of continents.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Осадочные породы образовались в результате осаждения органических и неорганических веществ на дне водных бассейнов и поверхности материков.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Seismic exploration goal is to obtain information on rocks on the basis of observed time of wave arrival, amplitude, frequency and form of signal.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Цель сейсморазведки состоит в получении информации о породах на основе наблюдаемого времени вступления, амплитуды, частоты и формы сигнала волны.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Rocks saturated with oil or gas, have lower density than the same rocks containing water.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Породы, насыщенные нефтью или газом, имеют меньшую плотность, чем те же породы, содержащие воду.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Field exploration stage includes implementation of geological and seismic exploration operations, drilling of wildcats and then exploratory wells.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Этап разведки месторождения включает проведение геологических и сейсморазведочных работ, бурение поисковых, а затем разведочных скважин.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The inorganic theory assumes that carbon and hydrogen were combining due to high pressure and temperature deep under ground and thus generated oil and gas.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Неорганическая теория предполагает, что углерод и водород соединялись в результате высокого давления и температуры глубоко под землёй и таким образом образовали нефть и газ.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Oil and gas blowout may result in damage of drilling equipment, an explosion, fire or injuries of maintenance personnel.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Выброс нефти и газа может привести к повреждению бурового оборудования, взрыву, пожару или травмам обслуживающего персонала.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Special equipment called a blowout preventer must be installed on each well being drilled in order to prevent blowouts.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На каждой бурящейся скважине должно быть установлено специальное оборудование, называемое противовыбросовым превентором, для предотвращения выбросов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Blowout preventers are devices installed on the casing head to provide for protection against potential well blowouts.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Противовыбросовые превенторы — это устройства, устанавливаемые на обсадной головке для защиты от возможных выбросов из скважины.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Christmas tree is the main component of wellhead equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Фонтанная арматура является основным компонентом оборудования устья скважины.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Directional drilling is a type of drilling, in which the wellbore is deviated in relation to stratification.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Наклонно-направленное бурение — это вид бурения, при котором ствол скважины искривляется относительно напластования.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Production wells are spudded to recover oil and gas from subsurface reservoirs.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Эксплуатационные скважины бурятся для извлечения нефти и газа из подземных коллекторов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Asphaltenes exist as colloidal suspensions in the oil.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Асфальтены существуют в нефти в виде коллоидных суспензий.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The bit is on the bottom of the drillstring, usually as part of a rotational motion.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Долото находится в нижней части бурильной колонны и обычно участвует во вращательном движении.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>If reservoir fluids flow into another formation and do not flow to the surface, the result is an underground blowout.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Если пластовые флюиды перетекают в другой пласт и не выходят на поверхность, возникает подземный выброс.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>During the appraisal, delineation wells might be drilled to determine the size of the oil or gas field and how to develop it most efficiently.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На этапе оценки месторождения могут бурить оценочные скважины, чтобы определить размеры нефтяного или газового месторождения и наиболее эффективный способ его разработки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Drillers are often concerned about aquifers and must take special precautions in the design and execution of the well plan to protect freshwater aquifers from contamination by wellbore and cause well control problems.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Буровики часто уделяют особое внимание водоносным горизонтам и должны принимать специальные меры при проектировании и выполнении плана строительства скважины, чтобы защитить пресноводные водоносные горизонты от загрязнения из скважины и не допустить проблем с контролем скважины.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The burner is attached to a heating appliance, water heater, or boiler to heat air or water.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Горелка присоединяется к отопительному устройству, водонагревателю или котлу для нагрева воздуха или воды.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Air drilling uses compressed air to remove rock cuttings from the borehole.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>При бурении с использованием воздуха сжатый воздух используется для удаления выбуренной породы из скважины.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Asphalt is used in road construction and can be produced from petroleum.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Асфальт используется в дорожном строительстве и может производиться из нефти.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The borehole must be cleaned before the casing is installed.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ствол скважины необходимо очистить перед установкой обсадной колонны.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>A beam pump lifts oil from the reservoir to the surface using a reciprocating sucker-rod system.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Глубинный насос штангового типа поднимает нефть из пласта на поверхность с помощью возвратно-поступательной системы насосных штанг.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The ball valve regulates the flow of fluid through the pipeline.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Шаровой клапан регулирует поток жидкости через трубопровод.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The oil field produces 5,000 barrels of crude oil per day.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Месторождение добывает 5 000 баррелей сырой нефти в сутки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Excessive backpressure can reduce the production rate of an oil well.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Чрезмерное противодавление может снизить дебит нефтяной скважины.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Blinding the pipeline before maintenance helps isolate the equipment from the process fluids.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Установка заглушек на трубопроводе перед техническим обслуживанием помогает изолировать оборудование от технологических жидкостей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The casing head supports the casing string and provides a connection for wellhead equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обсадная головка поддерживает обсадную колонну и обеспечивает соединение с устьевым оборудованием.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Gas compressibility changes with pressure and temperature.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сжимаемость газа изменяется в зависимости от давления и температуры.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Cementing seals the space between the casing and the borehole wall.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Цементирование герметизирует пространство между обсадной колонной и стенкой скважины.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Chokes are available in several configurations for both fixed and adjustable modes of operation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Дроссели доступны в нескольких конфигурациях как для фиксированного, так и для регулируемого режима работы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The condensate is not only generated into the reservoir but also formed when liquid drops out or condenses from a gas stream in pipelines or surface facilities.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Конденсат образуется не только в пласте, но и при выпадении или конденсации жидкости из газового потока в трубопроводах или наземных сооружениях.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Condensate gas mainly consists of propane, butane, pentane, and heavier hydrocarbon fractions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Газовый конденсат в основном состоит из пропана, бутана, пентана и более тяжёлых углеводородных фракций.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The inhibitor does not entirely stop the corrosion reaction but eliminates more than 99% of the metal losses that would occur if the inhibitor were absent.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ингибитор не останавливает реакцию коррозии полностью, но устраняет более 99% потерь металла, которые произошли бы в его отсутствие.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Corrosion-resistant alloys can be formulated for a wide range of aggressive wellbore conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Коррозионностойкие сплавы могут разрабатываться для широкого спектра агрессивных условий в стволе скважины.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The formula for density is the mass of an object divided by its volume.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Формула плотности — это масса объекта, делённая на его объём.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Fluid dehydration is needed to prevent corrosion and free-water accumulation in the low points of a pipeline.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обезвоживание жидкости необходимо для предотвращения коррозии и скопления свободной воды в нижних точках трубопровода.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Demulsification helps separate water from crude oil by breaking the emulsion.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Деэмульгация помогает отделить воду от сырой нефти путём разрушения эмульсии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Engineers studied how the fluid behaved in the dense phase during gas processing.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Инженеры изучали поведение флюида в плотной фазе во время переработки газа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The derrick floor is where the rig crew can meet, take breaks, and take refuge from the elements during idle times.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Рабочая площадка буровой установки — это место, где бригада может собираться, отдыхать и укрываться от непогоды во время простоев.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The desalter removes salts and water from crude oil before refining.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обессоливающая установка удаляет соли и воду из сырой нефти перед переработкой.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Rapid decompression can cause a sudden decrease in pressure inside the equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Быстрая декомпрессия может вызвать резкое снижение давления внутри оборудования.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Oil and gas exploration encompasses the processes and methods of locating potential oil and gas drilling and extraction sites.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Геологоразведочные работы в нефтегазовой отрасли включают процессы и методы поиска потенциальных мест для бурения и добычи нефти и газа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Hydraulic fracturing causes the formation to crack open, creating passages for the reservoir hydrocarbons to flow more easily into the wellbore.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Гидравлический разрыв пласта вызывает растрескивание породы, создавая каналы, по которым углеводороды из пласта легче поступают в ствол скважины.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The operator reduced operating costs to keep the marginal well in production.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Оператор сократил эксплуатационные расходы, чтобы продолжить добычу на низкорентабельной скважине.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Sedimentary basins vary from bowl-shaped to elongated troughs.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Осадочные бассейны бывают от чашеобразных до вытянутых впадин.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Hydrostatic pressure is a column of fluid that causes the force per unit area.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Гидростатическое давление создаётся столбом жидкости, который оказывает силу на единицу площади.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>As drilling fluid is pumped through the positive displacement motor, it converts the hydraulic power of the fluid into mechanical power to cause the bit to rotate.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Когда буровой раствор прокачивается через гидравлический забойный двигатель, он преобразует гидравлическую энергию жидкости в механическую энергию, заставляя долото вращаться.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Rotary drilling is continuous because cuttings are removed as drilling fluids circulate through the bit and up the wellbore to the surface.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Роторное бурение является непрерывным процессом, поскольку шлам удаляется, когда буровой раствор циркулирует через долото и поднимается по стволу скважины на поверхность.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Two-phase flow is thought to occur through common pore spaces, where the fluids flow simultaneously.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Предполагается, что двухфазный поток проходит через общие поровые пространства, где флюиды движутся одновременно.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>A two-phase separator scrubs free liquids from your vent gas stream before entering your flare system's relief and blow-down lines.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Двухфазный сепаратор удаляет свободные жидкости из потока выпускаемого газа перед поступлением в линии сброса и продувки факельной установки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Coalescers are primarily used to separate emulsions into components via various processes, operating in reverse to an emulsifier.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Коагуляторы преимущественно используются для разделения эмульсий на компоненты с помощью различных процессов, действуя противоположно эмульгатору.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Coalescing filters are used in compressed air systems to remove oil droplets and fine particles down to 0.01 microns in size.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Фильтры-коалессеры используются в системах сжатого воздуха для удаления капель масла и мелких частиц размером до 0,01 микрона.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Hydrocarbons are covalent compounds composed of carbon and hydrogen atoms.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Углеводороды представляют собой соединения с ковалентными связями, состоящие из атомов углерода и водорода.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Permafrost consists of soil, gravel, and sand, usually bound together by ice.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вечная мерзлота состоит из почвы, гравия и песка, обычно связанных между собой льдом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>In bubble flow, the relative velocity of the bubbles depends mainly on the difference in density between the two fluids.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>При пузырьковом режиме потока относительная скорость пузырьков зависит главным образом от разницы в плотности двух жидкостей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The bundle minimizes heat transfer and avoids hydrate or wax deposition that could plug the pipelines.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Трубный пучок сводит к минимуму теплопередачу и предотвращает отложение гидратов или парафина, которые могут закупорить трубопроводы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Flow loops are essential for the study of multiphase flow and the development of new production logging measurements.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Гидравлические испытательные стенды замкнутого типа необходимы для изучения многофазных потоков и разработки новых методов промыслового каротажа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The gas plant uses sweetening before sending the gas to the pipeline.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На газоперерабатывающем предприятии проводят десульфурацию перед подачей газа в трубопровод.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The crew inspected the tubing head before installing the Christmas tree.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Бригада осмотрела головку насосно-компрессорных труб перед установкой фонтанной арматуры.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Air-foam was selected for the treatment because the operation required a lightweight fluid system.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Для обработки выбрали пенообразующий агент, поскольку операция требовала облегчённой жидкостной системы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The mechanic engaged the clutch to start the auxiliary equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Механик включил сцепление, чтобы запустить вспомогательное оборудование.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The coupling loosened during operation, so the maintenance team stopped the pump.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Во время работы муфта ослабла, поэтому ремонтная бригада остановила насос.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The gas anchor was checked after the pump's performance became unstable.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Газовый якорь проверили после того, как работа насоса стала нестабильной.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The gasometer supplied stored gas to the facility during maintenance of the main line.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Во время обслуживания основной линии газометр подавал на объект хранящийся в нём газ.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The engineers adjusted the test conditions to investigate bubble flow at a higher liquid rate.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Инженеры изменили условия испытания, чтобы исследовать пузырьковый режим потока при более высокой скорости движения жидкости.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The laboratory measured the bubble point of the sample before conducting the next pressure test.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Лаборатория измерила точку образования пузырьков в образце перед следующим испытанием под давлением.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The bulk boat was scheduled to deliver crude oil to the export terminal.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Нефтяной танкер должен был доставить сырую нефть в экспортный терминал.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The tank was heated to make the bushwash easier to remove.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Резервуар нагрели, чтобы облегчить удаление нефтяного отстоя.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>A water hammer can occur when the flow of liquid in a pipeline changes rapidly.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Гидравлический удар может возникнуть при резком изменении потока жидкости в трубопроводе.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Butane is typically produced in a refinery and may be obtained through the cracking of petroleum fractions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Бутан обычно получают на нефтеперерабатывающем заводе, в том числе путём крекинга нефтяных фракций.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The drilling rig includes cranes and other equipment used for lifting and lowering materials.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Буровая установка включает краны и другое оборудование, используемое для подъёма и опускания материалов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Crankshaft is able to perform a conversion between reciprocating motion and rotational motion.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Коленчатый вал преобразует возвратно-поступательное движение поршней в крутящий момент.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Adsorbed gas can accumulate on organic particles in a shale reservoir.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Адсорбированный газ может накапливаться на органических частицах в сланцевом коллекторе.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Adsorption can be used to gather liquid hydrocarbons from a natural gas stream.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Адсорбцию можно использовать для сбора жидких углеводородов из потока природного газа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The azimuth is generally quoted in degrees from 0 to 359.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Азимут обычно указывается в градусах от 0 до 359.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Once flow begins, the nitrogen cushion pressure can be easily and safely bled down to flow formation fluids under high control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>После начала потока давление азотной подушки можно легко и безопасно снижать, обеспечивая строгий контроль притока пластовых флюидов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The centrifugal pump maintained the required flow rate while the oilfield fluids were being transferred.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Центробежный насос поддерживал необходимый расход при перекачке нефтепромысловых жидкостей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The horizontal separator can be a two-phase or three-phase separator.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Горизонтальный сепаратор может быть двухфазным или трехфазным сепаратором.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Cold production relies on nonthermal methods to recover heavy oil from a reservoir.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>При холодной добыче тяжёлую нефть извлекают из пласта нетермическими методами.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The gas buster typically comprises a vessel containing a series of baffles with a liquid exit at the bottom and a gas-vent line at the top.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Газосепаратор обычно представляет собой сосуд с рядом перегородок, выходом жидкости внизу и газоотводной линией вверху.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The slam retarder prevents the check-valve clapper from slamming shut when the flow reverses.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Гаситель гидравлического удара предотвращает резкое захлопывание тарелки обратного клапана при изменении направления потока.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The generator supplies electrical power to equipment operating at the drilling site.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Генератор обеспечивает электроэнергией оборудование, работающее на буровой площадке.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The substance used for sealing is known as a sealant or sealer.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вещество, используемое для герметизации, известно как герметик.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Closing unit – a generic term given to the hydraulic power pack and accumulators used to control the blowout preventers on a drilling or workover rig.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Закрытие блока – это общий термин для гидравлической силовой установки и гидроаккумуляторов, используемым для управления противовыбросовыми превенторами на буровой или ремонтной установке.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The downhole gauge measures pressure under different flowing conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Глубинный манометр измеряет давление при различных условиях потока.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Rocks that follow the porosity-resistivity trends described by Archie’s equation are defined as the Archie rocks.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Породы, соответствующие зависимостям пористости и удельного электрического сопротивления, описываемым уравнением Арчи, называют породами Арчи.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Major components of the drilling rig include the mud tanks, mud pumps, derrick, drawworks, and drillstring.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>К основным компонентам буровой установки относятся ёмкости для бурового раствора, буровые насосы, вышка, лебёдки и бурильная колонна.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The drilling foreman is the location supervisor for the drilling contractor.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Буровой мастер - руководитель работ на объекте со стороны бурового подрядчика.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The water is removed while the acid gas can be flared or further treated in a sulfur recovery unit to separate elemental sulfur.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вода удаляется, в то время как кислый газ может сжигаться в факеле или подвергаться дальнейшей обработке в установке для извлечения серы для отделения элементарной серы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>In most cases, acetic acid is used with hydrochloric acid and other additives.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В большинстве случаев уксусная кислота используется с соляной кислотой и другими кислотными добавками.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The engineer added an acid inhibitor to the treatment fluid before pumping it into the well.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Инженер добавил кислотный ингибитор в жидкость для обработки перед её закачкой в скважину.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The company plans to develop a new gas field in the region.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Компания планирует освоить новое газовое месторождение в этом регионе.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The crew pumped a spacer fluid into the well before introducing the cement slurry.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Бригада закачала буферную жидкость в скважину перед подачей цементного раствора.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The technician inspected the crown valve before opening the well for production.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Техник осмотрел буферную задвижку перед тем, как открыть скважину для добычи.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The engineer compared the field's gross production for January and February.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Инженер сравнил валовую добычу месторождения за январь и февраль.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>A fan is operated through a motor via electricity which rotates the blades attached to a shaft..</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вентилятор приводится в действие электродвигателем, который вращает лопасти, прикрепленные к валу.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The maintenance team found a damaged duct and replaced it during the equipment inspection.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Во время осмотра оборудования ремонтная бригада обнаружила повреждённый воздуховод и заменила его.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Cloud point is the temperature at which wax crystals first start to form in crude oil.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Температура начала парафинообразования – это температура, при которой в сырой нефти впервые начинают формироваться кристаллы парафина.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The operator recorded the well flow rate every hour to monitor changes in production.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Оператор каждый час записывал дебит скважины, чтобы отслеживать изменения добычи.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The drilling crew used the degasser when gas began accumulating in the drilling fluid.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Буровая бригада использовала дегазатор, когда в буровом растворе начал накапливаться газ.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The operator checked the gas blanket above the liquid before carrying out maintenance on the storage tank.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Оператор проверил газовую подушку над жидкостью перед проведением технического обслуживания резервуара.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Butane is typically either blended into gasoline or LPG or sold directly as a finished product.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Бутан обычно смешивают с бензином или сжиженным углеводородным газом либо продают непосредственно как готовый продукт.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The tankage of the field determines the total capacity available for storing its production.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вместимость резервуаров месторождения определяет общую ёмкость, доступную для хранения добытой продукции.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>Pigging is used to clean or inspect the pipeline.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Внутреннюю очистку трубопровода скребками проводят для очистки или осмотра трубопровода.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The air-powered tool operates using compressed air.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Инструмент с пневматическим приводом работает на сжатом воздухе.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The crew sent a roto-rabbit through the pipeline after the inspection revealed a possible obstruction.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>После того как проверка выявила возможное препятствие, бригада пропустила вращающийся скребок через трубопровод.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The crew had to cap the well to regain control after the blowout.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>После выброса бригаде пришлось заглушить скважину, чтобы восстановить контроль над ней.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107" creationdate="20261018T164858Z">
+      <prop type="domain">Aerospace / UAS</prop>
+      <tuv xml:lang="en">
+        <seg>The pipeline section uses an all-welded design.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На этом участке трубопровода используется цельносварная конструкция.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
